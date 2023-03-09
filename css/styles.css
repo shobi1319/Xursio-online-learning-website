@@ -1,0 +1,127 @@
+body {
+  font-family: "Monteserrat";
+}
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+h1 {
+  font-family: "Montserrat";
+  font-size: 3rem;
+  font-weight: bolder;
+  line-height: 1.5;
+}
+h2 {
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.btn-primary:hover {
+  background-color: #0069d9;
+  border-color: #0062cc;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+.rotate-image {
+  transform: rotate(25deg);
+}
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item {
+  padding: 0px 18px;
+}
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+}
+.bb {
+  margin: 5% 3% 5% 0;
+}
+h3 {
+  font-family: Montserrat, sans-serif;
+  font-weight: bold;
+}
+p {
+  color: #8f8f8f;
+}
+#features {
+  padding: 7% 15%;
+}
+.fb {
+  text-align: center;
+  padding: 4.5%;
+}
+.icon {
+  margin-bottom: 1rem;
+}
+.icon:hover {
+  color: #8f8f8f;
+}
+
+.ideas {
+  padding: 3%;
+}
+#idea {
+  padding: 7% 15%;
+  text-align: center;
+
+  background-color: #ff4c68;
+  color: #fff;
+}
+.col-lg-6 {
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.course-details p {
+  font-size: 25px;
+}
+.nextpage {
+  text-align: right;
+}
+
+.contact-icons {
+  display: flex;
+  justify-content: center;
+}
+
+.contact-icons a {
+  color: #000;
+  margin: 0 10px;
+  font-size: 24px;
+}
+
+.contact-icons a:hover {
+  color: #666;
+}
+h4 {
+  color: #fff;
+}
+.foot {
+  background-color: #8f8f8f;
+  text-align: center;
+}
+#about-us {
+  background-color: #f8f9fa;
+  padding: 80px 0;
+}
+
+#about-us h2 {
+  font-weight: 700;
+  font-size: 2.5rem;
+  color: #212529;
+  margin-bottom: 30px;
+}
+
+#about-us p {
+  font-size: 1.1rem;
+  color: #6c757d;
+}
